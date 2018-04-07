@@ -1,10 +1,11 @@
 numpy==1.13.3
+
 pandas==0.22.0
+
 requests==2.18.4
+
 Flask==0.12.2
 
-Flask-ipython==6.2.1
-
-
 Werkzeug==0.12.2
+
 gunicorn==19.7.1
